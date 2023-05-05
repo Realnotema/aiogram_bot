@@ -9,7 +9,7 @@ from db import Database
 
 TOKEN = TOKEN
 admin_id = ADMIN_ID
-tema_id = 931419194
+tema_id = MY_ID
 
 
 boty = Bot(token=TOKEN)
